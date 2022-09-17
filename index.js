@@ -5,4 +5,3 @@ const getPeopleInCity = () => {
   return fname(name);
 };
 module.exports = getPeopleInCity;
-console.log(getPeopleInCity);
